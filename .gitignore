@@ -1,5 +1,10 @@
 # Intermediate objects
 *.o
+*.cmd
+*.symvers
+*.order
+*.mod*
 
 # Final binary
 myprog
+*.ko
