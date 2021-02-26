@@ -1,0 +1,5 @@
+# Intermediate objects
+*.o
+
+# Final binary
+myprog
