@@ -1,3 +1,7 @@
+/*
+ * Exercise 2.26 on page 96
+ */
+
 #include <stdio.h>
 #include <unistd.h>
 #include <fcntl.h> 
